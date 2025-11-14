@@ -1,6 +1,6 @@
 # Calculadora JavaScript
 
-Uma calculadora web moderna e responsiva desenvolvida com HTML, CSS e JavaScript puro.
+Uma calculadora web moderna e responsiva desenvolvida com HTML, CSS e JavaScript puro, com botões em azul para melhor visibilidade e experiência do usuário.
 
 ## Funcionalidades
 
@@ -10,6 +10,7 @@ Uma calculadora web moderna e responsiva desenvolvida com HTML, CSS e JavaScript
 - Suporte a teclado físico
 - Histórico de operações
 - Tratamento de erros (ex: divisão por zero)
+- Design atualizado com botões em azul para melhor contraste e estética
 
 ## Como Usar
 
