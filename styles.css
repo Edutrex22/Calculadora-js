@@ -51,12 +51,13 @@ button {
     font-size: 1.2em;
     border-radius: 10px;
     cursor: pointer;
-    background-color: #f8f9fa;
+    background-color: #1e90ff;
+    color: white;
     transition: all 0.2s;
 }
 
 button:hover {
-    background-color: #e9ecef;
+    background-color: #4da6ff;
 }
 
 .operator {
